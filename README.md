@@ -21,7 +21,7 @@ pip install pybadges
 
 For more details, click [here](https://github.com/google/pybadges)
 
-### Contribution Badge
+### Contribution Badge ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)
 
 For project contributed by Servier:
 
@@ -31,9 +31,11 @@ python -m pybadges --left-text=Servier --right-text=contributed --left-color='li
 
 Add this link to your README:
 
+```markdown
 ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)
+```
 
-### Inspiration Badge
+### Inspiration Badge ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)
 
 For project used and inspired by Servier:
 
@@ -43,9 +45,11 @@ python -m pybadges --left-text=Servier --right-text=inspired --left-color='light
 
 Add this link to your README:
 
+```markdown
 ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)
+```
 
-### Powered Badge
+### Powered Badge ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)
 
 For project build by Servier:
 
@@ -55,4 +59,6 @@ python -m pybadges --left-text=Servier --right-text=powered --left-color='lightg
 
 Add this link to your README:
 
+```markdown
 ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)
+```
