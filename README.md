@@ -1,6 +1,6 @@
 # Servier Hub Open Source
 
-Welcome to the [Servier](https://servier.com/) Hub Open Source. This GitHub groups all Open Source, contributed, inspired or built by Servier.
+Welcome to the [Servier](https://servier.com/) Hub Open Source. This GitHub groups [all Open Source, contributed, inspired or built by Servier](https://github.com/topics/servier).
 
 ## How to submit a project
 
@@ -21,7 +21,7 @@ pip install pybadges
 
 For more details, click [here](https://github.com/google/pybadges)
 
-### Contribution Badge ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)
+### Contribution Badge [![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)](https://servier.com/)
 
 For projects contributed by Servier:
 
@@ -32,10 +32,10 @@ python -m pybadges --left-text=Servier --right-text=contributed --left-color='li
 Add this link to your README:
 
 ```markdown
-![Servier Contributed](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)
+[![Servier Contributed](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)](https://servier.com/)
 ```
 
-### Inspiration Badge ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)
+### Inspiration Badge [![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)](https://servier.com/)
 
 For projects used and inspired by Servier:
 
@@ -46,10 +46,10 @@ python -m pybadges --left-text=Servier --right-text=inspired --left-color='light
 Add this link to your README:
 
 ```markdown
-![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)
+[![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)](https://servier.com/)
 ```
 
-### Powered Badge ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)
+### Powered Badge [![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)](https://servier.com/)
 
 For projects built by Servier:
 
@@ -60,5 +60,5 @@ python -m pybadges --left-text=Servier --right-text=powered --left-color='lightg
 Add this link to your README:
 
 ```markdown
-![Servier Powered](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)
+[![Servier Powered](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)](https://servier.com/)
 ```
