@@ -1,6 +1,6 @@
 # Servier Hub Open Source
 
-Welcome to the Servier Hub Open Source. This GitHub groups all Open Source, contributed, inspired or built by Servier.
+Welcome to the [Servier](https://servier.com/) Hub Open Source. This GitHub groups [all Open Source, contributed, inspired or built by Servier](https://github.com/topics/servier).
 
 ## How to submit a project
 
@@ -8,8 +8,8 @@ TBD
 
 ## Badges
 
-We created github badges for your project. We use the python library [*pybadges*](https://github.com/google/pybadges)
-to generates these badges. PLease find more information below.
+We created GitHub badges for your projects. We use the Python library [*pybadges*](https://github.com/google/pybadges)
+to generates these badges. Please find more information below.
 
 ### Install pybadges
 
@@ -21,9 +21,9 @@ pip install pybadges
 
 For more details, click [here](https://github.com/google/pybadges)
 
-### Contribution Badge ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)
+### Contribution Badge [![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)](https://servier.com/)
 
-For project contributed by Servier:
+For projects contributed by Servier:
 
 ```bash
 python -m pybadges --left-text=Servier --right-text=contributed --left-color='lightgrey' --right-color='blue' --logo='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsSAAALEgHS3X78AAACqElEQVRYR+2WO2gVQRRAn/8/JkHFQuWpQRDipzCiYuUHrSwiWIiC2ogSJDYKNmJjpWgiKDY2WipWFhJtxMZETKciIfEDftEnqDH4Qc95zIbNc19eFvaJ4Bs4zOzszL13771zZ3O5WvvfPTAmawe83bWlKHLOlZs5xuMYboUenl/G30V6x2ZtAPImwQaULabPw1HYzHOdPSyI6xxfBQN+BEUb6V9AczBqG/0s2BvXmakHgouV2QfLoQUmw+owfkdfYN1Q6DMzIAhdg4IzcACSvLuW+Yuwpxo58Auhb2AA5oEJWNpmMzEjhKb4LjMPmPXQj8xz8DBBuVNf4BLcroYHPHYTEbwDmmCwxIjvISy76edH77I+BRrQC+bAOmgNIZlC3wXt4DGVYsu8EEWC8cZOxkfApLQ66YH9hGmYZ7L2QNzrT3iwCN2CO7AMrBHDWmZJWCqY5x7o5It/0pucN5IMSNj3d6cSc6Bx0UETaGUwxdh19vadf5rGNGTkWW/tnxD2dSHj/mhD4DE6DR3guW5B4KgTlrWGdnvYq4xTsCLpA8rlgJa+AquZR8aavjCFB1zrHvcqQ1kP0hjwmMVWK8urzcukjS+rr2REWNPGOm9BmzKUpcw/WrljaD2/DJsgD8Zxn7tRcJaun3hGxhWFBre79jB45UaxfxZkfU0yoGxcEWhVOwTHYXrYbEJ2wzW4B6/D/Fx6b0Ld7pdHyj8zPgEdGPwtlQHhq/yLOQaW1sgIX1lQ3kMhCG2gl7hHVX4BTqL8Y5Jy55KuzKG1Hwrdgw31zSbkJ1gCM0Gvmbwa5B+OTAtz7jU0z8HMbx9JeUUDXBAzQkMUbiKqsNR4w+Mv2HXQ7VdR7vU7YktzthU0FZbCKmiE9UH6XXpvQY18BAMor6S79r7mgX/DA78Bkt2lVNAl5w8AAAAASUVORK5CYII=' --embed-logo --browser
@@ -32,12 +32,12 @@ python -m pybadges --left-text=Servier --right-text=contributed --left-color='li
 Add this link to your README:
 
 ```markdown
-![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)
+[![Servier Contributed](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/contributed.svg)](https://servier.com/)
 ```
 
-### Inspiration Badge ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)
+### Inspiration Badge [![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)](https://servier.com/)
 
-For project used and inspired by Servier:
+For projects used and inspired by Servier:
 
 ```bash
 python -m pybadges --left-text=Servier --right-text=inspired --left-color='lightgrey' --right-color='blue' --logo='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsSAAALEgHS3X78AAACqElEQVRYR+2WO2gVQRRAn/8/JkHFQuWpQRDipzCiYuUHrSwiWIiC2ogSJDYKNmJjpWgiKDY2WipWFhJtxMZETKciIfEDftEnqDH4Qc95zIbNc19eFvaJ4Bs4zOzszL13771zZ3O5WvvfPTAmawe83bWlKHLOlZs5xuMYboUenl/G30V6x2ZtAPImwQaULabPw1HYzHOdPSyI6xxfBQN+BEUb6V9AczBqG/0s2BvXmakHgouV2QfLoQUmw+owfkdfYN1Q6DMzIAhdg4IzcACSvLuW+Yuwpxo58Auhb2AA5oEJWNpmMzEjhKb4LjMPmPXQj8xz8DBBuVNf4BLcroYHPHYTEbwDmmCwxIjvISy76edH77I+BRrQC+bAOmgNIZlC3wXt4DGVYsu8EEWC8cZOxkfApLQ66YH9hGmYZ7L2QNzrT3iwCN2CO7AMrBHDWmZJWCqY5x7o5It/0pucN5IMSNj3d6cSc6Bx0UETaGUwxdh19vadf5rGNGTkWW/tnxD2dSHj/mhD4DE6DR3guW5B4KgTlrWGdnvYq4xTsCLpA8rlgJa+AquZR8aavjCFB1zrHvcqQ1kP0hjwmMVWK8urzcukjS+rr2REWNPGOm9BmzKUpcw/WrljaD2/DJsgD8Zxn7tRcJaun3hGxhWFBre79jB45UaxfxZkfU0yoGxcEWhVOwTHYXrYbEJ2wzW4B6/D/Fx6b0Ld7pdHyj8zPgEdGPwtlQHhq/yLOQaW1sgIX1lQ3kMhCG2gl7hHVX4BTqL8Y5Jy55KuzKG1Hwrdgw31zSbkJ1gCM0Gvmbwa5B+OTAtz7jU0z8HMbx9JeUUDXBAzQkMUbiKqsNR4w+Mv2HXQ7VdR7vU7YktzthU0FZbCKmiE9UH6XXpvQY18BAMor6S79r7mgX/DA78Bkt2lVNAl5w8AAAAASUVORK5CYII=' --embed-logo --browser
@@ -46,12 +46,12 @@ python -m pybadges --left-text=Servier --right-text=inspired --left-color='light
 Add this link to your README:
 
 ```markdown
-![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)
+[![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)](https://servier.com/)
 ```
 
-### Powered Badge ![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)
+### Powered Badge [![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)](https://servier.com/)
 
-For project build by Servier:
+For projects built by Servier:
 
 ```bash
 python -m pybadges --left-text=Servier --right-text=powered --left-color='lightgrey' --right-color='blue' --logo='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsSAAALEgHS3X78AAACqElEQVRYR+2WO2gVQRRAn/8/JkHFQuWpQRDipzCiYuUHrSwiWIiC2ogSJDYKNmJjpWgiKDY2WipWFhJtxMZETKciIfEDftEnqDH4Qc95zIbNc19eFvaJ4Bs4zOzszL13771zZ3O5WvvfPTAmawe83bWlKHLOlZs5xuMYboUenl/G30V6x2ZtAPImwQaULabPw1HYzHOdPSyI6xxfBQN+BEUb6V9AczBqG/0s2BvXmakHgouV2QfLoQUmw+owfkdfYN1Q6DMzIAhdg4IzcACSvLuW+Yuwpxo58Auhb2AA5oEJWNpmMzEjhKb4LjMPmPXQj8xz8DBBuVNf4BLcroYHPHYTEbwDmmCwxIjvISy76edH77I+BRrQC+bAOmgNIZlC3wXt4DGVYsu8EEWC8cZOxkfApLQ66YH9hGmYZ7L2QNzrT3iwCN2CO7AMrBHDWmZJWCqY5x7o5It/0pucN5IMSNj3d6cSc6Bx0UETaGUwxdh19vadf5rGNGTkWW/tnxD2dSHj/mhD4DE6DR3guW5B4KgTlrWGdnvYq4xTsCLpA8rlgJa+AquZR8aavjCFB1zrHvcqQ1kP0hjwmMVWK8urzcukjS+rr2REWNPGOm9BmzKUpcw/WrljaD2/DJsgD8Zxn7tRcJaun3hGxhWFBre79jB45UaxfxZkfU0yoGxcEWhVOwTHYXrYbEJ2wzW4B6/D/Fx6b0Ld7pdHyj8zPgEdGPwtlQHhq/yLOQaW1sgIX1lQ3kMhCG2gl7hHVX4BTqL8Y5Jy55KuzKG1Hwrdgw31zSbkJ1gCM0Gvmbwa5B+OTAtz7jU0z8HMbx9JeUUDXBAzQkMUbiKqsNR4w+Mv2HXQ7VdR7vU7YktzthU0FZbCKmiE9UH6XXpvQY18BAMor6S79r7mgX/DA78Bkt2lVNAl5w8AAAAASUVORK5CYII=' --embed-logo --browser
@@ -60,5 +60,5 @@ python -m pybadges --left-text=Servier --right-text=powered --left-color='lightg
 Add this link to your README:
 
 ```markdown
-![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)
+[![Servier Powered](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/powered.svg)](https://servier.com/)
 ```
